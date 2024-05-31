@@ -1,10 +1,10 @@
 __pycache__/
 
 .vscode
-
+venv/
+.idea
 .env
-static/
-media/
+
 
 *.local
 *.pem
