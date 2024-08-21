@@ -35,7 +35,7 @@ The present repository is dedicated to Time Series Classification.
       * Time Series Forest (TSF)
       * Canonical Interval Forest (CIF)
       * Diverse Representation Canonical Interval Forest (DrCIF)
-   6. Interval - based:
+   6. Convolutional - based:
       * ROCKET
       * Arsenal
 
