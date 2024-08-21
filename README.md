@@ -1,5 +1,4 @@
-# Analysis and Innovation in Time Series Classification Algorithms and Methods:
-## Towards a Superior Convolutional Algorithm with Feature Selection
+# Temporal Algorithmic Synthesis: Unraveling the Complexity of Time Series Classification
 
 
 The present repository is dedicated to Time Series Classification.
